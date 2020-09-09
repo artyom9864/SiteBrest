@@ -1,0 +1,25 @@
+[Fri Sep 04 08:32:49 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Fri Sep 04 08:32:49 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Fri Sep 04 08:32:49 2020] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.3.13 configured -- resuming normal operations
+[Fri Sep 04 08:32:49 2020] [notice] Server built: Apr 20 2012 18:42:30
+[Fri Sep 04 08:32:49 2020] [notice] Parent: Created child process 19036
+[Fri Sep 04 08:32:49 2020] [notice] Disabled use of AcceptEx() WinSock2 API
+[Fri Sep 04 08:32:49 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Fri Sep 04 08:32:49 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Child process is running
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Acquired the start mutex.
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Starting 25 worker threads.
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Listening on port 443.
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Listening on port 8648.
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Listening on port 443.
+[Fri Sep 04 08:32:50 2020] [notice] Child 19036: Listening on port 80.
+[Fri Sep 04 08:33:02 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/localhost/www/templates/qarraw/css/font-awesome.css, referer: http://127.0.0.1/templates/qarraw/css/style.css
+[Fri Sep 04 08:33:03 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/localhost/www/modules/mod_revol_slider/assets/loader.gif, referer: http://127.0.0.1/modules/mod_revol_slider/assets/settings.css
+[Fri Sep 04 08:33:03 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/localhost/www/modules/mod_revol_slider/assets/timer.png, referer: http://127.0.0.1/modules/mod_revol_slider/assets/settings.css
+[Fri Sep 04 08:33:10 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/localhost/www/templates/qarraw/css/font-awesome.css, referer: http://127.0.0.1/templates/qarraw/css/style.css
+[Fri Sep 04 08:35:18 2020] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Sep 04 08:35:18 2020] [notice] Child 19036: Exit event signaled. Child process is ending.
+[Fri Sep 04 08:35:19 2020] [notice] Child 19036: Released the start mutex
+[Fri Sep 04 08:35:19 2020] [notice] Child 19036: All worker threads have exited.
+[Fri Sep 04 08:35:19 2020] [notice] Child 19036: Child process is exiting
+[Fri Sep 04 08:35:19 2020] [notice] Parent: Child process exited successfully.
